@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://example.com/</loc>
+         <lastmod>2024-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/supportedTypes/</loc>
+         <lastmod>2024-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/commands/mkPath/</loc>
+         <lastmod>2024-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/commands/tAutoRig/</loc>
+         <lastmod>2024-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/commands/tAutoRigNodeEditor/</loc>
+         <lastmod>2024-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/onRun/</loc>
+         <lastmod>2024-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
