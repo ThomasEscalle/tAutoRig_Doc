@@ -459,8 +459,43 @@
   
   
   
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Execution
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1">
+            <span class="md-nav__icon md-icon"></span>
+            Execution
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
     <li class="md-nav__item">
-      <a href="../../nodes/onRun/" class="md-nav__link">
+      <a href="../../nodes/Execution/onRun/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -469,6 +504,14 @@
   
 
       </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
     </li>
   
 
@@ -570,7 +613,7 @@
 <h1 id="tautorignodeeditor">tAutoRigNodeEditor</h1>
 <hr />
 <h2 id="mel-command">Mel Command</h2>
-<pre><code class="language-python">tAutoRigNodeEditor [-o &lt;string&gt;]
+<pre><code class="language-python">tAutoRigNodeEditor [-o &lt;string&gt;] [-template] [-script]
 </code></pre>
 <hr />
 <h2 id="description">Description</h2>
@@ -579,13 +622,25 @@
 <hr />
 <h2 id="arguments">Arguments</h2>
 <ul>
-<li><strong>-o &lt;string&gt;</strong> : Open a file in the node editor.</li>
+<li>
+<p><strong>-o &lt;string&gt;</strong> : Open a file in the node editor.</p>
+</li>
+<li>
+<p><strong>-template</strong> : Open the node editor in template mode.</p>
+</li>
+<li>
+<p><strong>-script</strong> : Open the node editor in script mode.</p>
+</li>
 </ul>
 <hr />
 <h2 id="examples">Examples</h2>
 <pre><code class="language-python">tAutoRigNodeEditor -o &quot;C:/path/to/file.json&quot;
 </code></pre>
 <pre><code class="language-python">tAutoRigNodeEditor -o &quot;&lt;templates&gt;/Spine/spine.json&quot;
+</code></pre>
+<pre><code class="language-python">tAutoRigNodeEditor -template
+</code></pre>
+<pre><code class="language-python">tAutoRigNodeEditor -script
 </code></pre>
 <hr />
 <h2 id="see-also">See Also</h2>
