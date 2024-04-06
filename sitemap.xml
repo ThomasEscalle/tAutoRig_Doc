@@ -2,42 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/supportedTypes/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/commands/mkPath/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/commands/tAutoRig/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/commands/tAutoRigNodeEditor/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/commands/tColor/</loc>
+         <lastmod>2024-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/nodes/Execution/onRun/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/Primitives/boolPrimitive/</loc>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/Primitives/boxPrimitive/</loc>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/Primitives/colorPrimitive/</loc>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/Primitives/doublePrimitive/</loc>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/Primitives/intPrimitive/</loc>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/Primitives/listPrimitive/</loc>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/Primitives/mapPrimitive/</loc>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/Primitives/matrixPrimitive/</loc>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/Primitives/objectPrimitive/</loc>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/Primitives/quaternionPrimitive/</loc>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/Primitives/rectPrimitive/</loc>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/Primitives/stringPrimitive/</loc>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/Primitives/vector2Primitive/</loc>
+         <lastmod>2024-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/nodes/Primitives/vector3Primitive/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/nodes/Primitives/vector4Primitive/</loc>
+         <lastmod>2024-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/nodes/Template%20Management/placementLocator/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
